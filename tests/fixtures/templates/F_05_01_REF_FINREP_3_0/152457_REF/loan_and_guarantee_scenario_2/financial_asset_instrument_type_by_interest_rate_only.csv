@@ -1,2 +1,2 @@
-﻿rowid,test_id,Financial_asset_instrument_type_by_interest_rate_only_uniqueID
-1,1,123321_2018-09-30_BLZ10
+test_id,Financial_asset_instrument_type_by_interest_rate_only_uniqueID
+1,123321_2018-09-30_BLZ10
