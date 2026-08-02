@@ -1,2 +1,2 @@
-instrument_type_by_product_ptr_id,ELGBL_CNTRL_BNK_FNDNG_INDCTR,DT_LGL_FNL_MTRTY,LTGTN_STTS,LN_AND_ADVNC_TYP
-123321_2018-09-30_BLZ10,2,2022-12-01 00:00:00,3,28
+instrument_type_by_product_ptr_id,ELGBL_CNTRL_BNK_FNDNG_INDCTR,DT_LGL_FNL_MTRTY,LTGTN_STTS,LN_AND_ADVNC_TYP,Loan_and_advance_has_Loan_and_advance_as_a_hedge_id,Loan_and_advance_may_have_Loan_and_advance_derived_data_id
+123321_2018-09-30_BLZ10,2,2022-12-01 00:00:00,3,28,,

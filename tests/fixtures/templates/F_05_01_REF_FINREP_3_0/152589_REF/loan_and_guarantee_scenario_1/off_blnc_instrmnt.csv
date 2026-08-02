@@ -1,2 +1,2 @@
-instrument_type_by_product_ptr_id,NMNL_AMNT,OFF_BLNC_INSTRMNT_TYP
-GUA28569811_2018-09-30_BLZ10,NULL,23
+instrument_type_by_product_ptr_id,DT_LGL_FNL_MTRTY,NMNL_AMNT,OFF_BLNC_INSTRMNT_TYP,Off_balance_instrument_has_Off_balance_instrument_derived_data_id
+GUA28569811_2018-09-30_BLZ10,,,23,
